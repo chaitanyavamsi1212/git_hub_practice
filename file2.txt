@@ -1,1 +1,2 @@
 this is file 2 added by main
+now this under control of vamsi
